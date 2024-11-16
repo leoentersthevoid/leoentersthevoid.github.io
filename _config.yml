@@ -6,7 +6,6 @@ x_username: futurisold
 goodreads_username: 90047214-claudiu-leoveanu-condrei
 
 url: "https://futurisold.github.io"
-baseurl: "/trimming-circles"
 
 markdown: kramdown
 highlighter: rouge
@@ -31,7 +30,3 @@ sass:
 navbar:
  - name: "About"
    link: "about"
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
