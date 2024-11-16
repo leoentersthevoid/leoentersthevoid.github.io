@@ -6,7 +6,7 @@ author:
 - Leo
 ---
 <p align="center">
-<img src="/assets/2024-09-15-o1s-successful-marriage/header.jpg" class="responsive">
+<img src="../assets/2024-09-15-o1s-successful-marriage/header.jpg" class="responsive">
 </p>
 
 > "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents." —  _H.P. Lovecraft_
@@ -35,7 +35,7 @@ Now, there is.
 
 I also want to provide a reason for why I believe OpenAI is doing _something_ like that. It's coming from their [technical research post](https://openai.com/index/learning-to-reason-with-llms/) under the form of a graph:
 <p align="center">
-<img src="/assets/2024-09-15-o1s-successful-marriage/graph.png" class="responsive">
+<img src="../assets/2024-09-15-o1s-successful-marriage/graph.png" class="responsive">
 </p>
 
 I speculate that the lack of a significant performance boost for the yellow-marked topics is due to the minimal benefits derived from transferring techniques from math and coding. The strong performance on the starred topics, however, potentially suggests where those reasoning traces came from.
@@ -51,4 +51,3 @@ $$^3$$ [GO is pspace hard](https://ieeexplore.ieee.org/document/4567961) \\
 $$^4$$ [Building Math Agents with Multi-Turn Iterative Preference Learning](https://www.arxiv.org/pdf/2409.02392) \\
 $$^5$$ [Go Complexities](https://inria.hal.science/hal-01256660v1/file/gocomplexities_draft.pdf) \\
 $$^6$$ [Two-hundred-terabyte maths proof is largest ever](https://www.nature.com/articles/nature.2016.19990)
-

@@ -1,25 +1,8 @@
-<footer class="page-footer">
-  <center>
-    {% if site.theme_switch == true %}
-    <div class="row">
-      <div class="col-sm-8 col-sm-offset-2">
-        <a onclick="toggleTheme();">
-          Light ∨ Dark
-        </a>
-      </div>
-    </div>
+<div class="footer">
+    {% if page.url == "/" and site.footer_only_homepage %}
+        <hr>
+        {{ site.footer_text }}
+    {% else %}
+        <br>
     {% endif %}
-    <div class="row">
-      <div class="col-sm-8 col-sm-offset-2">
-        <b>68747470733A2F2F796F7574752E62652F68317A38394A43347149773F743D3630</b>
-      </div>
-    </div>
-    {% if site.email != null and site.author != null %}
-    <div class="row">
-      <div class="col-sm-8 col-sm-offset-2">
-        Copyright (c) 20{{ site.time | date: '%y' }}
-      </div>
-    </div>
-    {% endif %}
-  </center>
-</footer>
+</div>

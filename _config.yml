@@ -1,75 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Trimming Circles
-author: Leoveanu-Condrei Claudiu
+author: Leo
 email: leo@extensity.ai
-description: A mental scrapyard for raw ideas.
+github_username: futurisold
+x_username: futurisold
+goodreads_username: 90047214-claudiu-leoveanu-condrei
 
-# baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://futurisold.github.io"
+baseurl: "/trimming-circles"
 
-# ------------------------------------------------------------------------------
-# Custom settings
-# ------------------------------------------------------------------------------
-# Useful links
-linkedin_id: "futurisold"
-github_username: "futurisold"
-twitter_username: "futurisold"
-goodreads_username: "90047214-claudiu-leoveanu-condrei"
-
-# Theme
-# theme: jekyll-theme-potato-hacker                 # Uncomment this
-remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
-theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
-theme_base: "dark"       # Theme palette (light | dark)
-theme_switch: on         # Show color switch (on | off)
-
-# Extra settings
-blog: off                 # Show blog tag and post list (on | off)
-avatar: on               # Show avatar (on | off)
-avatar_image: "assets/avatar.png"
-avatar_description: "A mental scrapyard for raw ideas."
-highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
-                            # colorful | github | gruvbox | molokai |
-                            # monokai | pastie | thankful_eyes | tulip ]
-toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  # - dropdown2
-  # - About
-  # - dropdown1
-
-# Collections
-collections:
-  dropdown:
-    output: true
-  items:
-    output: true
-# ------------------------------------------------------------------------------
-# Build settings
-show_excerpts: false # set to true to show excerpts on the homepage
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-remote-theme
-excerpt_separator: "<!--more-->"
 markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: katex
+
+footer_only_homepage: true
+footer_text: "68747470733A2F2F796F7574752E62652F68317A38394A43347149773F743D3630"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.png
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+    quiet_deps: true
+
+
+navbar:
+ - name: "About"
+   link: "about"
+
 exclude:
   - Gemfile
   - Gemfile.lock

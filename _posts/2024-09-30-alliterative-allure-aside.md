@@ -6,7 +6,7 @@ author:
 - Leo
 ---
 
-<img src="/assets/2024-09-30-alliterative-allure-aside/header.jpeg" class="responsive">
+<img src="../assets/2024-09-30-alliterative-allure-aside/header.jpeg" class="responsive">
 
 I love the "cannot" stances.
 Those naysayers who draw lines in the sand as if exploration bows to their whims.
@@ -115,4 +115,3 @@ Reduced to algorithms and data points, our essence distilled into machine-readab
 
 Perhaps. However,
 > "Reality overstepping the boundaries of comfortable vocabulary is the start, not the end, of the conversation."
-

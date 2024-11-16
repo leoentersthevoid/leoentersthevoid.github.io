@@ -6,7 +6,7 @@ author:
 - Leo
 ---
 <p align="center">
-<img src="/assets/2024-09-14-memes-as-compressors/header.png" class="responsive">
+<img src="../assets/2024-09-14-memes-as-compressors/header.png" class="responsive">
 </p>
 
 I had a chat with a colleague at some point. We talked about memes as "information compressors." Like Japanese Yojijukugo or Chinese Chengyu. Symbols packing whole poems or complex ideas.
@@ -22,5 +22,3 @@ It's a new kind of echo chamber. Born from information overload. Useful skill? P
 I wonder: What's the biggest cluster size? For me, it's three. Add one more person, and it's like hearing a foreign language. Made of familiar words, but still alien.
 
 This compression thing. It's changing how we communicate. How we think. How we connect. Or don't. Food for thought.
-
-

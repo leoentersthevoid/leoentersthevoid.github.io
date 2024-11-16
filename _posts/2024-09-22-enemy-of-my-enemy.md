@@ -25,7 +25,7 @@ Most days feel like we're caught in an ideological prison, each ad a warped mirr
 We're crushed by the weight of infinite reflections, a claustrophobic hall of mirrors amplifying the walls closing in.
 But sometimes [the prison walls become visible](https://x.com/wilplatypus/status/1814387942401654874/photo/1) and the [silence lines your lies and lights the mire like the fire leeches](https://youtu.be/nXXQ5H4Tksk):
 
-<img src="/assets/2024-09-22-enemy-of-my-enemy/GS4AIpqasAEQCPE.png" class="responsive">
+<img src="../assets/2024-09-22-enemy-of-my-enemy/GS4AIpqasAEQCPE.png" class="responsive">
 
 The real political conflict is between an ordered structure of society and those left without a place within.
 Gould said:
@@ -40,4 +40,3 @@ I don't deal the cards in life, but I will be playing mine to the end.
 My wing beat will be your hurricane.
 
 Fuck you.
-
