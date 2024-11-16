@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "The Enemy of My Enemy is Myself"
+title: "The Enemy of My Enemy Is Myself"
 categories: musings
+tags: [identity, society, resistance]
 author:
 - Leo
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Back to Writing"
 categories: musings
+tags: [writing, nodes]
 author:
 - Leo
 ---

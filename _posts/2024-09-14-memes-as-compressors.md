@@ -2,6 +2,7 @@
 layout: post
 title: "Memes as Compressors"
 categories: musings
+tags: [memes, information]
 author:
 - Leo
 ---

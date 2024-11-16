@@ -2,6 +2,7 @@
 layout: post
 title: "Alliterative Allure Aside"
 categories: musings
+tags: [computation, language, ai]
 author:
 - Leo
 ---
