@@ -19,8 +19,6 @@ Pushes me to excel.
 Grew up with mIRC, DC++, torrents in Eastern Europe.
 Just me and a computer.
 Always has been.
-I've seen things teenage me shouldn't have.
-That mindset stuck.
 
 <div class="social-links">
     <a href="mailto:{{site.email}}" class="social-link">
